@@ -1,6 +1,6 @@
 # ADTECH.load
 
-> A JavaScript module to load additional JavaScript files.
+> An ADTECH JavaScript module to load additional JavaScript files.
 
 ## Setup
 Include the (compressed or uncompressed) JavaScript module script in your HTML markup:
