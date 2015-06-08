@@ -40,6 +40,7 @@ It is also possible to define a callback function without a providing a script n
 ADTECH.load("foo.js", function() {
     // code here...
 });
+```
 
 ## Requirements
 The JavaScript module has zero dependencies.
