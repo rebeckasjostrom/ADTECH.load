@@ -25,7 +25,7 @@ ADTECH.load("foo.js", "foo");
 ```
 
 ##### Script Name and Callback
-It is also possible to define a callback function, and the loader will call provided callback once the document has been loaded.
+It is also possible to pass a third argument, asking the function to call provided function once the document is loaded.
 
 ```javascript
 ADTECH.load("foo.js", "foo", function() {
