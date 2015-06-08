@@ -12,7 +12,7 @@ Include the (compressed or uncompressed) JavaScript module script in your HTML m
 ## Usage
 
 ##### Basic
-In your code, use the **ADTECH.load()** function like this:
+In your code, use the `ADTECH.load()` function like this:
 
 ```javascript
 ADTECH.load("foo.js");
