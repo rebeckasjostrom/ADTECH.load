@@ -1,4 +1,4 @@
-# ADTECH.load
+# ADTECH JavaScript Loader
 
 > An ADTECH JavaScript module to load additional JavaScript files.
 
