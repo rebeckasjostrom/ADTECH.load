@@ -3,10 +3,16 @@
 > An ADTECH JavaScript module to load additional JavaScript files.
 
 ## Setup
-Include the (compressed or uncompressed) JavaScript module script in your HTML markup:
+Include the (compressed or uncompressed) JavaScript module within in your `<script>` markup:
 
 ```html
-<script src="adtech.load.min.js"></script>
+<script type="text/javascript">
+
+    // include loader module here
+    
+    // include your code here
+
+</script>
 ```
 
 ## Usage
